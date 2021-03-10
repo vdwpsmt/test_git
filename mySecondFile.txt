@@ -1,1 +1,2 @@
 my firste line of code in my second file
+test bug: add newline
